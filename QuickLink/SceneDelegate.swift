@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  QuickLink
 //
-//  Created by Micah Marie G. Gamboa on 11/20/25.
+//  Created by Juan Miguel G. Antonio on 11/20/25.
 //
 
 import UIKit

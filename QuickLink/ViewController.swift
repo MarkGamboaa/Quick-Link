@@ -1,3 +1,10 @@
+//
+//  ViewController.swift
+//  QuickLink
+//
+//  Created by Juan Miguel G. Antonio on 11/20/25.
+//
+
 import UIKit
 
 // MARK: - Model
